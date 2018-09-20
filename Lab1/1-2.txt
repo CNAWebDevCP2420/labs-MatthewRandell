@@ -1,0 +1,16 @@
+Exercise 1-2
+What value is assigned to $ReturnValue for each of the following expressions?
+1. $ReturnValue = 2 == 3;
+0
+2. $ReturnValue = "2" + "3";
+5
+3. $ReturnValue = 2 >= 3;
+0
+4. $ReturnValue = 2 <= 3;
+1
+5. $ReturnValue = 2 + 3;
+5
+6. $ReturnValue = (2 >= 3) && (2 > 3);
+0
+7. $ReturnValue = (2 >= 3) || (2 > 3);
+0
